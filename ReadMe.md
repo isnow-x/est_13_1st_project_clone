@@ -142,7 +142,7 @@ Desktop, Tablet, Mobile 환경에 맞춘 반응형 레이아웃을 적용하여 
 
 ### 2.2 배포 URL
 
-+ [Git](https://isnow-x.github.io/est_1st_project/)
++ [Git](https://github.com/isnow-x/est_13_1st_project_clone)
 
 
 
