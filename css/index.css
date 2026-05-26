@@ -1,3 +1,21 @@
+/* 팝업 */
+.popup {
+  position: fixed;
+  left: 100px;
+  top: 100px;
+  padding: 30px 40px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  margin: 0;
+  border: none;
+  border-radius: 15px;
+  z-index: 5;
+}
+
+.popupBtn {
+  justify-content: end;
+}
+
 /* 히어로 - 이채연 */
 
 #hero .inner {
@@ -1173,8 +1191,8 @@
 }
 
 .review_estchat_title {
-    color: var(--purple);
-    font-size: 20px;
+  color: var(--purple);
+  font-size: 20px;
 }
 
 .review_estchat_body {
